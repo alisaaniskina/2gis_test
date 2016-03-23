@@ -1,0 +1,7 @@
+﻿1. git init
+2. git clone git@github.com:alisaaniskina/2gis_test.git
+3. git remote -v
+[4. git add test.txt
+ 5. git status
+ 6. git commit -m "test commit"
+ 7. git push ]
